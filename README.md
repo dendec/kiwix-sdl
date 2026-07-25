@@ -2,6 +2,8 @@
 
 **Lightweight offline ZIM/Markdown reader for game consoles and desktop.**
 
+🌐 **[Website](https://dendec.github.io/zimlite/)**
+
 Renders Wikipedia ZIM archives, Markdown, and HTML files via SDL2. Supports keyboard, mouse, and gamepad input. Designed for low-power ARM devices (PortMaster) but runs on any Linux/Windows desktop.
 
 <img width="420" alt="article" src="https://github.com/user-attachments/assets/06cb4988-8b77-443f-953e-ee65e7fd6d14" />
